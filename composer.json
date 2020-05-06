@@ -1,0 +1,12 @@
+{
+    "name": "sanduhrs/loewenzahn",
+    "authors": [
+        {
+            "name": "Stefan Auditor",
+            "email": "stefan.auditor@erdfisch.de"
+        }
+    ],
+    "require": {
+        "jenssegers/proxy": "^3.1"
+    }
+}
